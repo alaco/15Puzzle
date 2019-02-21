@@ -1,0 +1,27 @@
+/*Allie LaCompte 
+  15 Puzzle */
+
+body {
+	background-color: #ccf2ff;
+	text-align: center;
+}
+
+td {
+	border: 5px solid black;
+	padding: 25px;
+	font-size: 2.5em;
+	width: 25%;
+	cursor: pointer;
+}
+
+.empty {
+	cursor: default;
+	background-color: black;
+}
+
+table {
+	border-collapse: collapse;
+  	margin-left: auto;
+  	margin-right: auto;
+ 	background-color: white;
+}
